@@ -1,3 +1,7 @@
+//Escreva um programa que leia um número entre 1 e 12 correspondendo a um mês do ano e imprima o nome desse mês.
+//Utilize o comando when. Caso o valor seja fora deste intevalo, imprima uma mensagem de erro.
+// Equipe: Caio Tobias Garcia
+
 fun main() {
     // Inserir o numero correspondente ao mês
     println("Digite um número entre 1 e 12 correspondente a um mês do ano:")
