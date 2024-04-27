@@ -1,3 +1,10 @@
+//Crie uma classe Tarefa que represente uma tarefa a ser realizada com atributos como título,
+//descrição, data de vencimento e prioridade.
+//Crie uma classe GerenciadorDeTarefas que gerencie uma lista de tarefas.
+//Implemente métodos para adicionar, remover,
+//buscar, marcar como concluída e listar tarefas por data de vencimento.
+//Equipe: Caio Tobias Garcia
+
 fun main() {
     // Criando tarefas
     val tarefa1 = Tarefa("Estudar", "Estudar programação", "22/05/2024", "Alta")
