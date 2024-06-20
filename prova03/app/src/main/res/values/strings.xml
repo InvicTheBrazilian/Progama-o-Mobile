@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="bottomnav_home">Home</string>
+    <string name="bottomnav_map">Mapa</string>
+    <string name="bottomnav_camera">Câmera</string>
+    <string name="bottomnav_profile">Perfil</string>
+    <string name="perfil_img_luxray">Luxray</string>
+    <string name="perfil_img_umbreon">Umbreon</string>
+    <string name="perfil_img_arcanine">Arcanine</string>
+    <string name="perfil_img_banette">Banette</string>
+    <string name="perfil_img_buizel">Buizel</string>
+    <string name="perfil_img_wooloo">Wooloo</string>
+    <string name="perfil_img_regigigas">Regigigas</string>
+    <string name="perfil_btn_adicionar">Adicionar</string>
+    <string name="perfil_btn_mensagem">Mensagem</string>
+    <string name="perfil_img_fotodeperfil">Foto de Perfil</string>
+    <string name="perfil_txt_trainer">Red</string>
+    <string name="perfil_txt_profissao">Treinador</string>
+</resources>

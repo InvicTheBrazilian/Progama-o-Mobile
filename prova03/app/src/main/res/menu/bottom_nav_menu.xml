@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bottomnav_home"
+        android:title="@string/bottomnav_home"
+        android:icon="@drawable/pokedex_icon"/>
+    <item android:id="@+id/bottomnav_map"
+        android:title="@string/bottomnav_map"
+        android:icon="@drawable/map_icon"/>
+    <item android:id="@+id/bottomnav_camera"
+        android:title="@string/bottomnav_camera"
+        android:icon="@drawable/camera_icon"/>
+    <item android:id="@+id/bottomnav_profile"
+        android:title="@string/bottomnav_profile"
+        android:icon="@drawable/profile_icon"/>
+</menu>
